@@ -3,12 +3,23 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@aws-amplify/analytics": "^5.2.22",
+    "@aws-amplify/api": "^4.0.55",
+    "@aws-amplify/api-graphql": "^2.3.19",
+    "@aws-amplify/cache": "^4.0.57",
+    "@aws-amplify/pubsub": "^4.5.5",
+    "@aws-amplify/ui-components": "^1.9.6",
+    "@aws-amplify/ui-react": "^3.5.7",
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
+    "aws-amplify": "^4.3.37",
+    "aws-amplify-react": "^5.1.9",
+    "graphql": "^16.6.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-scripts": "5.0.1",
+    "uuid": "^9.0.0",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
